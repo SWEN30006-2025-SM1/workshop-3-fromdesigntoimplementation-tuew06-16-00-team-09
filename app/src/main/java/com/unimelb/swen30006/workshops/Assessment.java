@@ -30,7 +30,6 @@ public class Assessment {
     public void setDescription(String description) {
         this.description = description;
     }
-
     public int getMaxAttempts() {
         return maxAttempts;
     }
