@@ -15,6 +15,8 @@ public class Assessment {
         this.name = name;
     }
 
+    public Assessment() {}
+
     public Date getDueDate() {
         return dueDate;
     }
@@ -46,5 +48,4 @@ public class Assessment {
     public void setName(String name) {
         this.name = name;
     }
-
 }
